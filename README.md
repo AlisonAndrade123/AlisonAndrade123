@@ -8,12 +8,12 @@
   </p>
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/alison-andrade-b23621308/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Gmail -->
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail"/>
+  <!-- Email -->
+  <a href="mailto:alison.alves@academico.ifpb.edu.br">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Email"/>
   </a>
 </div>
 
